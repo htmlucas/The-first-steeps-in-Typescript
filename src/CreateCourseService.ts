@@ -9,7 +9,7 @@ interface Course{
     duration?: number; //usando ? define que é opcional
     educator: string;
 }
-// usando interface para passar a tipagem do que ele espera de parametro na função logo em baixo
+// usando interface para passar a tipagem do que ele espera de parametro na função logo em baixoo
 
 
 class CreateCourseService {
